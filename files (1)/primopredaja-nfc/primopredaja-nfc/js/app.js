@@ -166,7 +166,7 @@
     return `
       <main class="prijava">
         ${valovi(false)}
-        <h1>Primopredaja smjene</h1>
+        <h1>NurseLink</h1>
         <p class="tiho">Prijavite se PIN-om. Vidjet ćete samo pacijente svog odjela.</p>
         <form id="forma-prijava" autocomplete="off">
           <label for="pin">PIN</label>
